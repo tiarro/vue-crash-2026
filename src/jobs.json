@@ -1,11 +1,11 @@
 {
   "jobs": [
     {
-      "title": "Senior Vue Dev",
       "type": "Full-Time",
-      "location": "Boston, MA",
+      "title": "Senior Vue Developer",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "salary": "$90K - $100K",
+      "salary": "$100K - $125K",
+      "location": "Boston, MA",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
@@ -81,6 +81,34 @@
         "name": "Port Solutions INC",
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7769",
+      "type": "Remote",
+      "title": "Content Creator",
+      "description": "i like my job",
+      "salary": "$100K - $125K",
+      "location": "Jakarta Selatan",
+      "company": {
+        "name": "timisa - era",
+        "description": "place interest",
+        "contactEmail": "timisa@gmail.com",
+        "contactPhone": "087898401241"
+      }
+    },
+    {
+      "id": "3ab9",
+      "type": "Full-Time",
+      "title": "Front-End Engineer (Vue)",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "location": "Miami, FL",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
         "contactPhone": "555-555-5555"
       }
     }
